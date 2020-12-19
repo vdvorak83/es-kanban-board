@@ -14,7 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
         <eventuateClientVersion>0.2.0.RELEASE</eventuateClientVersion>
-        <springBootVersion>1.3.5.RELEASE</springBootVersion>
+        <springBootVersion>1.5.0.RELEASE</springBootVersion>
         <springVersion>4.2.6.RELEASE</springVersion>
     </properties>
 
