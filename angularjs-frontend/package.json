@@ -77,7 +77,7 @@
     "angular": "^1.4.4",
     "angular-animate": "^1.4.4",
     "angular-route": "^1.4.4",
-    "angular-timeago": "^0.2.4",
+    "angular-timeago": "^0.4.6",
     "angular-ui-bootstrap": "^0.13.3",
     "babel": "^6.0.15",
     "babel-core": "^6.1.2",
